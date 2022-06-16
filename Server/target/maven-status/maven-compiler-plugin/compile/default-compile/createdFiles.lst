@@ -1,0 +1,5 @@
+com/usal/serverPattern/Server.class
+com/usal/serverPattern/Observer.class
+com/usal/serverPattern/Server$StartServerThread.class
+com/usal/serverPattern/ClientThread.class
+com/usal/serverPattern/Observable.class
